@@ -3,3 +3,45 @@
     padding: 0;
     font-family: Arial, Helvetica, sans-serif;
 }
+header{
+    background-color: gray;
+    height: 20em;
+}
+article{
+    width: 45%;
+    float: left;
+    height: 64em;
+}
+#caixa1{
+    background-color: aqua;
+    height: 26em;
+    width: 100%;
+    margin-top: 2em;
+}
+#caixa2{
+    background-color: chocolate;
+    height: 30em;
+    width: 47%;
+    margin-top: 2em;
+    float: left;
+}
+#caixa3{
+    background-color: brown;
+    height: 30em;
+    width: 47%;
+    margin-top: 2em;
+    float: right;
+}
+aside{
+    background-color: crimson;
+    height: 58em;
+    width: 45%;
+    float: right;
+    margin-top: 2em;
+}
+footer{
+    background-color: green;
+    height: 3em;
+    width: 100%;
+    margin-top: 63em;
+}
