@@ -30,3 +30,10 @@ footer{
     width: 100%;
     border: 1px solid black;
 }
+form input{
+    border: 1px solid white ;
+    width: 345px;
+    margin-left: 5%;
+    margin-top: 2em;
+    font-style: italic;
+}
