@@ -30,3 +30,28 @@ footer{
     width: 100%;
     border: 1px solid black;
 }
+#bloco3{
+    height: 18em;
+    width: 49%;
+    margin-left: 51%;
+    background-color: yellow;
+}
+#bloco3 h2{
+    margin-top: 1em;
+    margin-left: 1em;
+
+}
+#bloco3 h1{
+    margin-top: 1em;
+    margin-left: 1em;
+}
+#bloco3 p{
+    margin-top: 2em;
+    margin-left: 1.5em;
+    margin-right: 1.5em;
+    text-align: justify;
+}
+#bloco3 button{
+    margin-left: 80%;
+    margin-top: 2em;
+}
