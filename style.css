@@ -30,3 +30,7 @@ footer{
     width: 100%;
     border: 1px solid black;
 }
+#grade img{
+    margin-left: 2em;
+    margin-top: 2em;
+}
