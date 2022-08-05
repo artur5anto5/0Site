@@ -30,3 +30,26 @@ footer{
     width: 100%;
     border: 1px solid black;
 }
+#programa{
+    height: 18em;
+    width: 49%;
+    background-color: yellow;
+}
+#programa h1{
+    margin-top: 10px;
+    margin-left: 15px;
+}
+#programa h2{
+    margin-top: 20px;
+    margin-left: 15px;
+    margin-bottom: 30px;
+}
+#programa p{
+    margin-left: 15px;
+    text-align: justify;
+    margin-right: 15px;
+}
+#programa button{
+    margin-left: 300px;
+    margin-top: 25px;
+}
