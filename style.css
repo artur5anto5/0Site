@@ -1,9 +1,11 @@
 *{
+
     font-family: Arial, Helvetica, sans-serif;
     padding: 0;
     margin: 0;
 }
 header{
+    
     border: 1px solid black;
     height: 20em;
     width: 100%;
@@ -24,6 +26,30 @@ aside{
     display: flex;
     border: 1px solid black;
 }
+
+.mais-lidos{
+    width: 80%;
+    margin-left: 10%;
+    margin-right: 10%;
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    gap: 20px;
+    background-color: gray;
+}
+
+.mais-lidos-titulo{
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding: 8px;
+    font-size: 1.3em;
+}
+
+.ul-mais-lidos{
+    margin-left: 20px;
+}
+
 footer{
     height: 5em;
     margin-top: 43em;
