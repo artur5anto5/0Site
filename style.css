@@ -87,7 +87,6 @@ footer h2{
     height: 18em;
     width: 250%;
     background-color: yellow;
-    border: 1px solid black;
 }
 #bloco1 h1{
     margin-left: 1.3em;
@@ -124,11 +123,10 @@ form input{
 #programa{
     height: 18em;
     width: 113%;
-    background-color: yellow;
+    background-color: darkkhaki;
     display: flex;
     float: left;
-    margin-top: 2.9em;
-    border: 1px solid black;
+    margin-top: 1.8em;
     flex-direction: column;
 }
 #programa h1{
@@ -154,11 +152,10 @@ form input{
 #bloco3{
     height: 18em;
     width: 49%;
-    background-color: yellow;
+    background-color: yellowgreen;
     display: flex;
     float: right;
     margin-top: 21em;
-    border: 1px solid black;
     margin-right: 24em;
     flex-direction: column;
     margin-left: 21.3em;
